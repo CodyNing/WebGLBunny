@@ -16,4 +16,4 @@ Open link http://localhost:8000/Main/
 - **"s" key**: Stop panning spot light.
 
 
-![alt text](https://github.com/CodyNing/CMPT361Assignment3/raw/main/demo.gif)
+![alt text](https://github.com/CodyNing/WebGLBunny/raw/main/demo.gif)
