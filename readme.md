@@ -14,3 +14,6 @@ Open link http://localhost:8000/Main/
 - **"r" key**: Reset bunny and camera position.
 - **"p" key**: Stop rotating point light.
 - **"s" key**: Stop panning spot light.
+
+
+![alt text](https://github.com/CodyNing/CMPT361Assignment3/raw/main/demo.gif)
