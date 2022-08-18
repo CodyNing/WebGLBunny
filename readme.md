@@ -1,10 +1,10 @@
 # How to run
 
 ```
->> python3 .\assignment\server.py
+>> python3 .\Main\server.py
 ```
 ```
-Open link http://localhost:8000/assignment/
+Open link http://localhost:8000/Main/
 ```
 
 # Control
